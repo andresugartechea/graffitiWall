@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "graffiti";
+    src: url(fonts/DOCALLISMEONSTREET.ttf);
+}
+
+h1{
+    font-family: "graffiti";
+    color: rgb(56, 34, 90);
+    font-size: 100px;
+    margin: 0px;
+}
+
+h2{
+    font-family: "graffiti";
+    color: rgb(74, 38, 38);
+    font-size: 30px;  
+    margin: 0px;  
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
